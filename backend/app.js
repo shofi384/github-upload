@@ -1,3 +1,5 @@
+// All routes start with the base http://localhost:8000/api
+
 const cookieParser = require('cookie-parser');
 const expressSession = require('express-session');
 const passport = require('./middlewares/auth');

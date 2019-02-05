@@ -1,4 +1,5 @@
 # Backend Starting instruction
+All routes start from the base: http://localhost:8000/api
 > Built from [here](https://github.com/CUNYTechPrep/backend-starter)  
 
 $ npm install  
